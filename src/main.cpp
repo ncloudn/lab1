@@ -4,6 +4,6 @@ int subtract(int a, int b);
 
 int main() {
     int a = 10, b = 5;
-    std::cout << "Сумма: " << add(a, b) << std::endl;
-    std::cout << "Разница: " << subtract(a, b) << std::endl;
+    std::cout << "Сложение: " << add(a, b) << std::endl;
+    std::cout << "Вычитание: " << subtract(a, b) << std::endl;
 }
